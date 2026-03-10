@@ -1,0 +1,3 @@
+﻿ID;source_type;original_duration_sec;fps;resolution;has_audio;environment_type;gender;camera_motion;participants_count
+sample_1;CCTV;18;30;1920x1080;false;shopping_mall;female;static;1
+sample_2;CCTV;19;30;1920x1080;false;shopping_mall;female;static;1
